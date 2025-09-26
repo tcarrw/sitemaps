@@ -1,0 +1,6 @@
+{
+  "name": "plnt-sitemaps",
+  "private": true,
+  "license": "MIT",
+  "scripts": { "build": "node sitemap-index.js" }
+}
